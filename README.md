@@ -1,6 +1,6 @@
 # First PyTorch Project: Rice Classification
 
-This repository contains my first project exploring the PyTorch deep learning framework. The goal of this project is to build a simple neural network to classify rice grains based on their characteristics.
+This repository contains a simple project exploring the PyTorch deep learning framework. The goal of this notebook is to build a simple neural network to classify rice grains based on their characteristics.
 
 ## Project Description
 
@@ -15,7 +15,7 @@ This project demonstrates the fundamental steps involved in building and trainin
 
 ## Dataset
 
-The project uses a dataset containing features of rice grains and their corresponding class (presumably representing different varieties). The dataset is loaded directly from a Google Sheet for convenience.
+The project uses a dataset containing features of rice grains and their corresponding class (Jasmine: 1, Gonen: 0 )
 
 ## Model
 
